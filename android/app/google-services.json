@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859050604457",
+    "project_id": "mayssaapp-99975",
+    "storage_bucket": "mayssaapp-99975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859050604457:android:d35f61ec37ba7d94e5b6b8",
+        "android_client_info": {
+          "package_name": "com.example.mayssa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTXBIyAkteCJB1XsH5AYKe9XTzQDVITE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
